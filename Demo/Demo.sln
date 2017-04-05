@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{31526E4D-6227-4275-81EE-002A1755DB65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C5E1637-9D21-4238-A3B3-CA2726F10DE5}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Demo", "src\Demo\Demo.xproj", "{5E8DB5CC-4A4E-4C3C-9721-453DD51899A3}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "LoginradiusCoreSdk", "..\LoginradiusCoreSdk\src\LoginradiusCoreSdk\LoginradiusCoreSdk.xproj", "{A29ACE5D-55A9-408A-B98D-C9DB3BDD4893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8DB5CC-4A4E-4C3C-9721-453DD51899A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8DB5CC-4A4E-4C3C-9721-453DD51899A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8DB5CC-4A4E-4C3C-9721-453DD51899A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8DB5CC-4A4E-4C3C-9721-453DD51899A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29ACE5D-55A9-408A-B98D-C9DB3BDD4893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29ACE5D-55A9-408A-B98D-C9DB3BDD4893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29ACE5D-55A9-408A-B98D-C9DB3BDD4893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29ACE5D-55A9-408A-B98D-C9DB3BDD4893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E8DB5CC-4A4E-4C3C-9721-453DD51899A3} = {31526E4D-6227-4275-81EE-002A1755DB65}
+	EndGlobalSection
+EndGlobal
