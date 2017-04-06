@@ -23,9 +23,9 @@ Please visit [here](http://www.loginradius.com/) for more information.
 
 ## Contents ##
 
-* [Demo Application](https://github.com/LoginRadius/dot-net-core-sdk/Demo): It contains a basic demo of the SDK
+* [Demo Application](https://github.com/LoginRadius/dot-net-core-sdk/tree/master/Demo/src/Demo): It contains a basic demo of the SDK
 library
-* [SDK](https://github.com/LoginRadius/dot-net-core-sdk/LoginradiusCoreSdk): It contains all the sourced compiled SDK.
+* [SDK](https://github.com/LoginRadius/dot-net-core-sdk/tree/master/LoginradiusCoreSdk/src/src/LoginradiusCoreSdk): It contains all the sourced compiled SDK.
 
 ## Demo Application
 
